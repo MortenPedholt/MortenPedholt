@@ -3,7 +3,7 @@ My main focus is Microsoft cloud, which means Microsoft Azure and Microsoft 365 
 
 - 📫 Read my blogposts: https://Pedholtlab.com
 - 💬 How to reach me: https://twitter.com/MortenPedholt
-- ⚡ Fun fact: Huge football and Batman fan
+- ⚡ Fun fact: Batman fan
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MortenPedholt.svg?style=social&label=Follow%20%40MortenPedholt)](https://twitter.com/MortenPedholt)
