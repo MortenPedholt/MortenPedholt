@@ -12,4 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Huge football and Batman fan
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MortenPedholt?style=social">
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MortenPedholt.svg?style=social&label=Follow%20%40MortenPedholt)](https://twitter.com/MortenPedholt)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MortenPedholt&show_icons=true&theme=radical)
