@@ -6,6 +6,6 @@ My main focus is Microsoft cloud, which means Microsoft Azure and Microsoft 365 
 - ⚡ Fun fact: Batman fan
 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MortenPedholt.svg?style=social&label=Follow%20%40MortenPedholt)](https://twitter.com/MortenPedholt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MortenPedholt?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=MortenPedholt)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MortenPedholt&show_icons=true&theme=radical)
